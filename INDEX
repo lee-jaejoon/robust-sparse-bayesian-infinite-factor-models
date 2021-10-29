@@ -1,0 +1,22 @@
+amean                   Average over the third index of an array
+del_mg                  Sampler Components
+infinitefactor-package
+                        Bayesian Infinite Factor Models
+interactionDL           Factor regression model with interactions using
+                        the Dirichlet-Laplace shrinkage prior
+interactionMGSP         Factor regression model with interactions using
+                        the Multiplicative Gamma Shrinkage Prior
+jointRot                Resolve rotational ambiguity in samples of
+                        factor loadings and factors jointly
+linearDL                Sample Bayesian linear infinite factor models
+                        with the Dirichlet-Laplace prior
+linearMGSP              Sample Bayesian linear infinite factor models
+                        with the Multiplicative Gamma Shrinkage Prior
+linearMGSPt             Sample Bayesian linear infinite factor models
+                        with the Multiplicative Gamma Shrinkage Prior
+                        and t-likelihood
+lmean                   Average elements of a list
+msf                     Resolve label and sign switching in random
+                        matrix samples
+plotmat                 Plot a matrix
+summat                  Summarise a matrix from posterior samples
